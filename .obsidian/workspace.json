@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "42c08762454d35be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ebcb69784162eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a530dd85ee6ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240617.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a441ba7a03b00dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1b55140f3ca159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b38d84292e4b22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e853cf00708cfa12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Daily",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b95be5349b1a2be0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b147eee8c4e3463",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "c3943776c4de3783",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f413847a1146ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc15199eebac056",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Daily/20240617.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e0b46a1dac20ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Daily/20240617.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b5dd3ad03644f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d06ab0d9d36103a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "db358e6e7cd217f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Daily/20240617.md"
+              }
+            }
+          },
+          {
+            "id": "3cdb2694886969a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 464.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "bmo-chatbot:BMO Chatbot": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "3cdb2694886969a5",
+  "lastOpenFiles": [
+    "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md",
+    "202406171052.md",
+    "05 - Fleeting/202406121818 - Job applications.md",
+    "All.md",
+    "06 - Daily/20240617.md",
+    "06 - Daily/20240612.md",
+    "06 - Daily/20240613.md",
+    "00 - Maps of Content/Placeholder.md",
+    "05 - Fleeting/202406131337 - Job Applications.md",
+    "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md",
+    "Untitled Kanban.md",
+    "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md",
+    "04 - Permanent/Placeholder.md",
+    "06 - Daily/Untitled.md",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
+    "Untitled.md",
+    "01 - Projects/HiveLaw/Human Based Law advice with auditing.md",
+    "Learning/Starting vite@react.md",
+    "02 - Areas/Design Thinking/Design Thinking.md",
+    "02 - Areas/Placeholder.md",
+    "02 - Areas/Design Thinking",
+    "02 - Areas/Computer Science/Untitled",
+    "02 - Areas/Computer Science",
+    "02 - Areas/Japanese Learning",
+    "01 - Projects/HiveLaw/UserFlow.canvas",
+    "01 - Projects/Placeholder.md",
+    "01 - Projects/HiveLaw",
+    "2024-W24.md",
+    "ED-202406121748.excalidraw.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "03 - Resources/wqwqe"
+  ]
+}
