@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240617.md",
+                "file": "202406171052.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240617.md",
+                "file": "202406171052.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240617.md",
+                "file": "202406171052.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240617.md"
+                "file": "202406171052.md"
               }
             }
           },
@@ -156,9 +156,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "71078310e9c76def",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,26 +191,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3cdb2694886969a5",
+  "active": "69a530dd85ee6ee0",
   "lastOpenFiles": [
-    "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md",
+    "04 - Permanent/How to stay focused.md",
+    "06 - Daily/20240617.md",
+    "06 - Daily/20240617 1.md",
+    "05 - Fleeting/202406131337 - Job Applications.md",
+    "Untitled.md",
     "202406171052.md",
+    "06 - Daily/20240613.md",
+    "06 - Daily/Untitled.md",
+    "04 - Permanent/Python Venv.md",
+    "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md",
     "05 - Fleeting/202406121818 - Job applications.md",
     "All.md",
-    "06 - Daily/20240617.md",
     "06 - Daily/20240612.md",
-    "06 - Daily/20240613.md",
     "00 - Maps of Content/Placeholder.md",
-    "05 - Fleeting/202406131337 - Job Applications.md",
     "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md",
     "Untitled Kanban.md",
     "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md",
-    "04 - Permanent/Placeholder.md",
-    "06 - Daily/Untitled.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "Untitled.md",
     "01 - Projects/HiveLaw/Human Based Law advice with auditing.md",
     "Learning/Starting vite@react.md",
     "02 - Areas/Design Thinking/Design Thinking.md",
@@ -217,8 +227,6 @@
     "2024-W24.md",
     "ED-202406121748.excalidraw.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "03 - Resources/wqwqe"
   ]
 }

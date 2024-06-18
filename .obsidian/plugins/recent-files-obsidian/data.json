@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "202406171052",
+      "path": "202406171052.md"
+    },
+    {
+      "basename": "How to stay focused",
+      "path": "04 - Permanent/How to stay focused.md"
+    },
+    {
       "basename": "20240617",
       "path": "06 - Daily/20240617.md"
     },
     {
-      "basename": "202406121804 - Human Based Law Advice",
-      "path": "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md"
+      "basename": "20240617 1",
+      "path": "06 - Daily/20240617 1.md"
     },
     {
-      "basename": "202406171052",
-      "path": "202406171052.md"
+      "basename": "202406131337 - Job Applications",
+      "path": "05 - Fleeting/202406131337 - Job Applications.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "20240613",
+      "path": "06 - Daily/20240613.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "06 - Daily/Untitled.md"
+    },
+    {
+      "basename": "Python Venv",
+      "path": "04 - Permanent/Python Venv.md"
+    },
+    {
+      "basename": "202406121804 - Human Based Law Advice",
+      "path": "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md"
     },
     {
       "basename": "202406121818 - Job applications",
@@ -21,16 +49,8 @@
       "path": "06 - Daily/20240612.md"
     },
     {
-      "basename": "20240613",
-      "path": "06 - Daily/20240613.md"
-    },
-    {
       "basename": "Placeholder",
       "path": "00 - Maps of Content/Placeholder.md"
-    },
-    {
-      "basename": "202406131337 - Job Applications",
-      "path": "05 - Fleeting/202406131337 - Job Applications.md"
     },
     {
       "basename": "202406122014 - Setting up wsl and LLama",
@@ -39,14 +59,6 @@
     {
       "basename": "202406121759 - Starting React With tailwind",
       "path": "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "04 - Permanent/Placeholder.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "06 - Daily/Untitled.md"
     },
     {
       "basename": "BMO",
@@ -79,10 +91,6 @@
     {
       "basename": "Placeholder",
       "path": "07 - Archives/Placeholder.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "03 - Resources/Placeholder.md"
     }
   ],
   "omittedPaths": [],
