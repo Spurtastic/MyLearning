@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsHappyBeaming",
       "BoBxsAdjustAlt",
       "BoBxsMagicWand",
       "BoBxsDevices",
@@ -95,5 +96,7 @@
   "01 - Projects/HiveLaw": "BoBxsLayer",
   "02 - Areas/Computer Science": "BoBxsDevices",
   "02 - Areas/Design Thinking": "BoBxsMagicWand",
-  "02 - Areas/Japanese Learning": "BoBxsAdjustAlt"
+  "02 - Areas/Japanese Learning": "BoBxsAdjustAlt",
+  "02 - Areas/Systemic learning": "BoBxsHappyBeaming",
+  "01 - Projects/AI Note Taker": "BoBxsMagicWand"
 }

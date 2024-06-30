@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406171052.md",
+                "file": "06 - Daily/20240617.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb35f91a50d65036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "decc36e4c953a204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d444ec801a1f99de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22b08e47f9212efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/202406252303.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7450d0ca0402208d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240625.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181ace9ed7665bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240627.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406171052.md",
+                "file": "06 - Daily/20240627.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406171052.md",
+                "file": "06 - Daily/20240627.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406171052.md"
+                "file": "06 - Daily/20240627.md"
               }
             }
           },
@@ -158,7 +231,7 @@
             }
           },
           {
-            "id": "71078310e9c76def",
+            "id": "a99d7c9ad6dcf845",
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
@@ -170,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,42 +264,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "69a530dd85ee6ee0",
+  "active": "181ace9ed7665bd7",
   "lastOpenFiles": [
-    "04 - Permanent/How to stay focused.md",
+    "06 - Daily/20240625.md",
+    "06 - Daily/20240627.md",
+    "06 - Daily/20240622.md",
+    "06 - Daily/20240619.md",
     "06 - Daily/20240617.md",
+    "06 - Daily/20240613.md",
+    "06 - Daily/20240612.md",
+    "01 - Projects/AI Note Taker/202406270120.md",
+    "04 - Permanent/202406252303.md",
+    "01 - Projects/AI Note Taker/Untitled.md",
+    "01 - Projects/AI Note Taker",
+    "04 - Permanent/How to stay focused.md",
+    "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md",
+    "02 - Areas/Computer Science/202406171052 - Simple math for interviews.md",
+    "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md",
+    "02 - Areas/Systemic learning/Untitled.md",
+    "05 - Fleeting/Untitled.md",
+    "202406222151.md",
+    "Untitled.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "01 - Projects/HiveLaw/UserFlow.canvas",
+    "02 - Areas/Systemic learning",
+    "06 - Daily/Untitled.md",
+    "202406190943.md",
     "06 - Daily/20240617 1.md",
     "05 - Fleeting/202406131337 - Job Applications.md",
-    "Untitled.md",
-    "202406171052.md",
-    "06 - Daily/20240613.md",
-    "06 - Daily/Untitled.md",
     "04 - Permanent/Python Venv.md",
-    "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md",
-    "05 - Fleeting/202406121818 - Job applications.md",
-    "All.md",
-    "06 - Daily/20240612.md",
-    "00 - Maps of Content/Placeholder.md",
-    "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md",
-    "Untitled Kanban.md",
-    "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md",
-    "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "01 - Projects/HiveLaw/Human Based Law advice with auditing.md",
-    "Learning/Starting vite@react.md",
-    "02 - Areas/Design Thinking/Design Thinking.md",
-    "02 - Areas/Placeholder.md",
     "02 - Areas/Design Thinking",
     "02 - Areas/Computer Science/Untitled",
     "02 - Areas/Computer Science",
     "02 - Areas/Japanese Learning",
-    "01 - Projects/HiveLaw/UserFlow.canvas",
-    "01 - Projects/Placeholder.md",
     "01 - Projects/HiveLaw",
-    "2024-W24.md",
-    "ED-202406121748.excalidraw.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "03 - Resources/wqwqe"
   ]
 }
