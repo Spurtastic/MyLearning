@@ -1,24 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "20240627",
-      "path": "06 - Daily/20240627.md"
+      "basename": "20240827",
+      "path": "06 - Daily/20240827.md"
     },
     {
-      "basename": "20240625",
-      "path": "06 - Daily/20240625.md"
+      "basename": "20240808",
+      "path": "06 - Daily/20240808.md"
+    },
+    {
+      "basename": "202407302003 - Django tutorial",
+      "path": "02 - Areas/Computer Science/Django/202407302003 - Django tutorial.md"
+    },
+    {
+      "basename": "202406131337 - Job Applications",
+      "path": "05 - Fleeting/202406131337 - Job Applications.md"
+    },
+    {
+      "basename": "20240802",
+      "path": "06 - Daily/20240802.md"
+    },
+    {
+      "basename": "202406121759 - Starting React With tailwind",
+      "path": "02 - Areas/Computer Science/JavaScript/202406121759 - Starting React With tailwind.md"
+    },
+    {
+      "basename": "202406252303",
+      "path": "04 - Permanent/202406252303.md"
+    },
+    {
+      "basename": "Python Venv",
+      "path": "04 - Permanent/Python Venv.md"
+    },
+    {
+      "basename": "202406122014 - Setting up wsl and LLama",
+      "path": "02 - Areas/Computer Science/llm/202406122014 - Setting up wsl and LLama.md"
+    },
+    {
+      "basename": "202406171052 - Simple math for interviews",
+      "path": "02 - Areas/Systemic learning/202406171052 - Simple math for interviews.md"
+    },
+    {
+      "basename": "202406222151",
+      "path": "202406222151.md"
+    },
+    {
+      "basename": "20240730",
+      "path": "06 - Daily/20240730.md"
+    },
+    {
+      "basename": "RegistrationProcess",
+      "path": "01 - Projects/UserRegistration/RegistrationProcess.md"
+    },
+    {
+      "basename": "How to stay focused",
+      "path": "04 - Permanent/How to stay focused.md"
+    },
+    {
+      "basename": "UserFlow",
+      "path": "01 - Projects/HiveLaw/UserFlow.canvas"
+    },
+    {
+      "basename": "202406121804 - Human Based Law Advice",
+      "path": "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md"
+    },
+    {
+      "basename": "Human Based Law advice with auditing",
+      "path": "Human Based Law advice with auditing.md"
+    },
+    {
+      "basename": "202406270120",
+      "path": "01 - Projects/AI Note Taker/202406270120.md"
+    },
+    {
+      "basename": "20240719",
+      "path": "06 - Daily/20240719.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "00 - Maps of Content/Placeholder.md"
+    },
+    {
+      "basename": "202406121818 - Job applications",
+      "path": "05 - Fleeting/202406121818 - Job applications.md"
     },
     {
       "basename": "20240622",
       "path": "06 - Daily/20240622.md"
-    },
-    {
-      "basename": "20240619",
-      "path": "06 - Daily/20240619.md"
-    },
-    {
-      "basename": "20240617",
-      "path": "06 - Daily/20240617.md"
     },
     {
       "basename": "20240613",
@@ -29,36 +97,24 @@
       "path": "06 - Daily/20240612.md"
     },
     {
-      "basename": "202406270120",
-      "path": "01 - Projects/AI Note Taker/202406270120.md"
+      "basename": "20240627",
+      "path": "06 - Daily/20240627.md"
     },
     {
-      "basename": "202406252303",
-      "path": "04 - Permanent/202406252303.md"
+      "basename": "20240625",
+      "path": "06 - Daily/20240625.md"
     },
     {
-      "basename": "How to stay focused",
-      "path": "04 - Permanent/How to stay focused.md"
+      "basename": "20240619",
+      "path": "06 - Daily/20240619.md"
     },
     {
-      "basename": "202406121759 - Starting React With tailwind",
-      "path": "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md"
-    },
-    {
-      "basename": "202406171052 - Simple math for interviews",
-      "path": "02 - Areas/Computer Science/202406171052 - Simple math for interviews.md"
-    },
-    {
-      "basename": "202406122014 - Setting up wsl and LLama",
-      "path": "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md"
+      "basename": "20240617",
+      "path": "06 - Daily/20240617.md"
     },
     {
       "basename": "Untitled",
       "path": "02 - Areas/Systemic learning/Untitled.md"
-    },
-    {
-      "basename": "202406222151",
-      "path": "202406222151.md"
     },
     {
       "basename": "(TEMPLATE) Unique",
@@ -71,30 +127,6 @@
     {
       "basename": "(TEMPLATE) Daily (Vanilla)",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
-    },
-    {
-      "basename": "UserFlow",
-      "path": "01 - Projects/HiveLaw/UserFlow.canvas"
-    },
-    {
-      "basename": "202406131337 - Job Applications",
-      "path": "05 - Fleeting/202406131337 - Job Applications.md"
-    },
-    {
-      "basename": "Python Venv",
-      "path": "04 - Permanent/Python Venv.md"
-    },
-    {
-      "basename": "202406121804 - Human Based Law Advice",
-      "path": "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md"
-    },
-    {
-      "basename": "202406121818 - Job applications",
-      "path": "05 - Fleeting/202406121818 - Job applications.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "00 - Maps of Content/Placeholder.md"
     },
     {
       "basename": "BMO",

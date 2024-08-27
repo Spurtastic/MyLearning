@@ -1,5 +1,5 @@
  How to stay focused
-'
+
 Overthinking ---write
 Uninspired --- read
 Scared --- take a risk

@@ -8,91 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69a530dd85ee6ee0",
+            "id": "d7362031452e7dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240617.md",
+                "file": "02 - Areas/Computer Science/Django/202407302003 - Django tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb35f91a50d65036",
+            "id": "14d29c40519cc74f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "file": "02 - Areas/Computer Science/Django/202407302003 - Django tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "decc36e4c953a204",
+            "id": "e76ec0c82c2fadca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "file": "06 - Daily/20240808.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d444ec801a1f99de",
+            "id": "1a856c8d7cff86d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22b08e47f9212efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/202406252303.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7450d0ca0402208d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/20240625.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181ace9ed7665bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/20240627.md",
+                "file": "06 - Daily/20240827.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240627.md",
+                "file": "06 - Daily/20240827.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240627.md",
+                "file": "06 - Daily/20240827.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240627.md"
+                "file": "06 - Daily/20240827.md"
               }
             }
           },
@@ -239,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -264,44 +228,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "181ace9ed7665bd7",
+  "active": "78b38d84292e4b22",
   "lastOpenFiles": [
-    "06 - Daily/20240625.md",
-    "06 - Daily/20240627.md",
+    "06 - Daily/20240808.md",
+    "06 - Daily/20240827.md",
+    "02 - Areas/Computer Science/Django/202407302003 - Django tutorial.md",
+    "05 - Fleeting/202406131337 - Job Applications.md",
+    "06 - Daily/20240802.md",
+    "02 - Areas/Computer Science/JavaScript",
+    "02 - Areas/Computer Science/llm",
+    "02 - Areas/Computer Science/Django",
+    "02 - Areas/Computer Science/JavaScript/202406121759 - Starting React With tailwind.md",
+    "04 - Permanent/202406252303.md",
+    "04 - Permanent/Python Venv.md",
+    "02 - Areas/Computer Science/llm/202406122014 - Setting up wsl and LLama.md",
+    "02 - Areas/Systemic learning/202406171052 - Simple math for interviews.md",
+    "202406222151.md",
+    "06 - Daily/20240730.md",
+    "01 - Projects/UserRegistration/RegistrationProcess.md",
+    "04 - Permanent/How to stay focused.md",
+    "01 - Projects/UserRegistration",
+    "01 - Projects/HiveLaw/UserFlow.canvas",
+    "01 - Projects/HiveLaw/202406121804 - Human Based Law Advice.md",
+    "Human Based Law advice with auditing.md",
+    "01 - Projects/AI Note Taker/202406270120.md",
+    "06 - Daily/20240719.md",
+    "00 - Maps of Content/Placeholder.md",
+    "05 - Fleeting/202406121818 - Job applications.md",
     "06 - Daily/20240622.md",
-    "06 - Daily/20240619.md",
-    "06 - Daily/20240617.md",
     "06 - Daily/20240613.md",
     "06 - Daily/20240612.md",
-    "01 - Projects/AI Note Taker/202406270120.md",
-    "04 - Permanent/202406252303.md",
-    "01 - Projects/AI Note Taker/Untitled.md",
+    "06 - Daily/20240627.md",
+    "06 - Daily/20240625.md",
+    "06 - Daily/20240619.md",
     "01 - Projects/AI Note Taker",
-    "04 - Permanent/How to stay focused.md",
-    "02 - Areas/Computer Science/202406121759 - Starting React With tailwind.md",
-    "02 - Areas/Computer Science/202406171052 - Simple math for interviews.md",
-    "02 - Areas/Computer Science/202406122014 - Setting up wsl and LLama.md",
-    "02 - Areas/Systemic learning/Untitled.md",
-    "05 - Fleeting/Untitled.md",
-    "202406222151.md",
-    "Untitled.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "01 - Projects/HiveLaw/UserFlow.canvas",
     "02 - Areas/Systemic learning",
-    "06 - Daily/Untitled.md",
-    "202406190943.md",
-    "06 - Daily/20240617 1.md",
-    "05 - Fleeting/202406131337 - Job Applications.md",
-    "04 - Permanent/Python Venv.md",
     "BMO/Profiles",
     "BMO",
     "02 - Areas/Design Thinking",
-    "02 - Areas/Computer Science/Untitled",
-    "02 - Areas/Computer Science",
-    "02 - Areas/Japanese Learning",
-    "01 - Projects/HiveLaw",
-    "03 - Resources/wqwqe"
+    "02 - Areas/Computer Science"
   ]
 }
